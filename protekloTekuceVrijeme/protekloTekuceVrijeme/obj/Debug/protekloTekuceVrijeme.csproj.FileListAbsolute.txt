@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.exe.config
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.exe
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\bin\Debug\protekloTekuceVrijeme.pdb
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.Form1.resources
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.exe
+C:\Users\Korisnik\source\repos\protekloTekuceVrijeme\protekloTekuceVrijeme\obj\Debug\protekloTekuceVrijeme.pdb
